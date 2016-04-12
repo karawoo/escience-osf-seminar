@@ -1,0 +1,67 @@
+---
+title: "Using the Open Science Framework to manage & share your research"
+author: "Kara Woo | @kara_woo"
+date: "April 12, 2016"
+output:
+  ioslides_presentation:
+    widescreen: true
+    css: style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What is the Open Science Framework? {.build}
+
+Free, open-source software that manages projects at all stages of the research lifecycle and connects the tools researchers use.
+
+## What is the Open Science Framework?
+
+<div class="columns-2">
+
+<img src="images/COS_logo.png" alt="Center for Open Science logo" style="width: 465px;"/>
+
+- Planning
+- Execution
+- Reporting
+- Archiving
+- Discovery
+
+</div>
+
+## Planning
+
+- Creating a project
+- Registering a research plan
+
+## Execution
+
+<img class="centerimage" src="images/OSF_integrations.png" alt="Service integrations" style="width: 900px;"/>
+
+## Execution
+
+- Hub for services
+- Version control
+- Collaboration
+- Project management
+
+## Reporting
+
+- Anonymized, view-only links
+- Unique, persistent URLs
+- Commenting
+
+## Archiving
+
+- Preservation endowment
+- Connections to repositories
+
+## Discovery 
+
+<img class="centerimage" src="images/discover_projects.png" alt="Discovery of public projects" style="width: 900px;"/>
+
+## Discovery
+
+- Keywords and tags
+- SHARE notification service
