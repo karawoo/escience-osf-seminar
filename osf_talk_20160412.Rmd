@@ -65,3 +65,7 @@ Free, open-source software that manages projects at all stages of the research l
 
 - Keywords and tags
 - SHARE notification service
+
+## 
+
+<img class="centerimage" src="images/share_screenshot.png" alt="SHARE notification service" style="width:1000px;"/>
